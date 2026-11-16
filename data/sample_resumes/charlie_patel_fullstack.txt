@@ -1,0 +1,28 @@
+Charlie Patel
+charlie.patel@email.com | +1 (555) 456-7890 | Seattle, WA | github.com/charliepatel
+
+PROFESSIONAL SUMMARY
+Full Stack Software Developer with 4+ years of hands-on experience building scalable web solutions across frontend and backend tiers using React, Node.js, TypeScript, PostgreSQL, and Docker.
+
+TECHNICAL SKILLS
+- Programming Languages: TypeScript, JavaScript, Python, SQL, HTML, CSS
+- Frontend: React, Next.js, Tailwind CSS, Redux
+- Backend: Node.js, Express, REST API, GraphQL, FastAPI
+- Databases: PostgreSQL, MongoDB, Redis
+- Cloud & Tools: Docker, AWS, Git, CI/CD, GitHub Actions, Linux
+- Practices: Agile, Scrum, Unit Testing, System Design
+
+WORK EXPERIENCE
+Full Stack Engineer | CloudScale Inc. | 2021 - Present
+- Architected enterprise SaaS platform using React, Node.js, Express, and PostgreSQL.
+- Implemented real-time synchronization with WebSockets and Redis caching layer.
+- Deployed microservices on AWS with Docker containers and automated GitHub Actions CI/CD.
+- Designed RESTful API endpoints and GraphQL schemas serving 500,000+ active users.
+
+Junior Software Developer | CodeWave Solutions | 2020 - 2021
+- Developed responsive UI screens using React and CSS modules.
+- Created CRUD API services in Node.js with MongoDB database persistence.
+- Participated in Agile daily standups, code reviews, and unit testing.
+
+EDUCATION
+Bachelor of Science in Computer Science | University of Washington | 2020

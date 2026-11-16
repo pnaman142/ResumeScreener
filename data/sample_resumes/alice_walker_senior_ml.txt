@@ -1,0 +1,32 @@
+Alice Walker
+alice.walker@email.com | +1 (555) 345-6789 | San Francisco, CA | linkedin.com/in/alicewalker
+
+PROFESSIONAL SUMMARY
+Senior Machine Learning Engineer with 6+ years of experience architecting end-to-end ML and deep learning pipelines. Proven expertise in PyTorch, TensorFlow, NLP transformers, and deploying scalable inference systems on AWS and Kubernetes.
+
+TECHNICAL SKILLS
+- Programming Languages: Python, SQL, C++, Bash
+- ML & Deep Learning: PyTorch, TensorFlow, Scikit-learn, Hugging Face, Transformers, NLP, Deep Learning, Machine Learning, Pandas, NumPy, SciPy
+- Cloud & DevOps: AWS, Docker, Kubernetes, CI/CD, Git, Linux
+- Databases: PostgreSQL, Redis, MongoDB
+- Methodologies: Agile, Scrum, Unit Testing, System Design
+
+WORK EXPERIENCE
+Senior Machine Learning Engineer | Nova AI Systems | 2021 - Present
+- Designed and deployed transformer-based NLP models serving 10M+ daily API inference requests with PyTorch and Hugging Face.
+- Built automated continuous training CI/CD pipelines using Docker, Kubernetes, and AWS SageMaker.
+- Reduced model latency by 45% through quantization and TensorRT optimizations.
+- Mentored junior engineers and led Agile sprint planning sessions.
+
+Machine Learning Engineer | Apex Data Labs | 2018 - 2021
+- Developed predictive classification and regression models using Scikit-learn and XGBoost.
+- Engineered automated data pipelines in Python and SQL handling over 500GB of daily telemetry.
+- Containerized microservices using Docker and deployed to Linux environments.
+
+EDUCATION
+Master of Science in Computer Science | Stanford University | 2018
+Bachelor of Science in Computer Science | UC Berkeley | 2016
+
+CERTIFICATIONS
+- AWS Certified Machine Learning - Specialty
+- Deep Learning Specialization (DeepLearning.AI)

@@ -1,0 +1,20 @@
+Job Title: Data Analyst
+Department: Business Intelligence
+Location: Chicago, IL / Hybrid
+Experience Required: 2+ years of experience
+Education: Bachelor's degree in Statistics, Mathematics, Computer Science, or Business.
+
+About the Role:
+We are seeking a detail-oriented Data Analyst to transform complex raw datasets into actionable business intelligence. You will build interactive dashboards, perform statistical analysis, and generate reports that empower executive decision-making.
+
+Key Responsibilities:
+- Extract, clean, and analyze data across multiple relational and cloud data warehouses.
+- Build dynamic, visual dashboards using Tableau and Power BI.
+- Write complex SQL queries for aggregation, window functions, and data transformations.
+- Perform exploratory data analysis and statistical modeling using Python and Pandas.
+- Present findings clearly to stakeholders and cross-functional leadership teams.
+
+Required Technical Skills:
+- Analytics: Data Analysis, Statistical Analysis, Data Visualization, Data Mining
+- Tools: SQL, Python, Pandas, NumPy, Tableau, Power BI, Excel
+- Soft Skills: Communication, Problem Solving, Critical Thinking, Project Management

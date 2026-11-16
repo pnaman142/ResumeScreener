@@ -1,0 +1,22 @@
+Evan Ross
+evan.ross@email.com | +1 (555) 234-5678 | Denver, CO | github.com/evanross
+
+PROFESSIONAL SUMMARY
+DevOps Engineer with 2 years of experience supporting cloud infrastructure, CI/CD automation, containerization, and Linux system administration.
+
+TECHNICAL SKILLS
+- Cloud Platforms: AWS, GCP
+- Containers & Orchestration: Docker, Kubernetes, Helm
+- CI/CD & Automation: Jenkins, GitHub Actions, Terraform, Ansible, Bash
+- Programming & Scripting: Python, Shell, Linux
+- Monitoring: Prometheus, Grafana
+
+WORK EXPERIENCE
+Junior DevOps Engineer | Stratus Cloud Tech | 2022 - Present
+- Provisioned infrastructure as code (IaC) using Terraform on AWS.
+- Configured Docker build files and deployed applications into Kubernetes clusters.
+- Automated CI/CD build and test pipelines using GitHub Actions and Jenkins.
+- Maintained monitoring and alert dashboards using Prometheus and Grafana.
+
+EDUCATION
+Bachelor of Science in Information Technology | University of Colorado Boulder | 2022

@@ -1,0 +1,25 @@
+Bob Martinez
+bob.martinez@email.com | +1 (555) 890-1234 | Austin, TX | github.com/bobmartinez
+
+PROFESSIONAL SUMMARY
+Creative and user-obsessed Lead Frontend Engineer with 5+ years of experience crafting rich web applications using React, TypeScript, Next.js, and modern styling systems.
+
+TECHNICAL SKILLS
+- Languages: JavaScript, TypeScript, HTML, CSS, Sass
+- Frameworks & Libraries: React, Next.js, Redux, Tailwind CSS, Bootstrap, Node.js
+- Tools & DevOps: Git, GitHub Actions, Docker, Webpack, Vite, Jest
+- Methodologies: Agile, Scrum, Unit Testing, UI/UX Design
+
+WORK EXPERIENCE
+Lead Frontend Engineer | PixelCraft Studios | 2022 - Present
+- Led frontend architecture for high-traffic SaaS portal using React 18, TypeScript, and Next.js.
+- Developed modular UI component library in Tailwind CSS with 100% test coverage using Jest.
+- Improved Core Web Vitals and Lighthouse page performance scores from 64 to 98.
+
+Frontend Developer | Horizon Web Agency | 2019 - 2022
+- Built responsive client web applications using React, Redux, and REST API integrations.
+- Collaborated closely with UI/UX designers to translate Figma mockups into accessible interfaces.
+- Managed version control with Git and established CI/CD deployments via GitHub Actions.
+
+EDUCATION
+Bachelor of Science in Software Engineering | University of Texas at Austin | 2019

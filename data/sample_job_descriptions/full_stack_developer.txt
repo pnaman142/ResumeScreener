@@ -1,0 +1,22 @@
+Job Title: Full Stack Developer
+Department: Engineering
+Location: New York, NY / Remote
+Experience Required: 3+ years of experience
+Education: Bachelor's degree in Computer Science, Software Engineering, or equivalent.
+
+About the Role:
+We are looking for a skilled Full Stack Developer to build modern, responsive web applications and scalable backend APIs. The ideal candidate has strong expertise in modern JavaScript/TypeScript, React, Node.js, and relational databases.
+
+Key Responsibilities:
+- Develop intuitive, high-performance web frontends using React, TypeScript, and modern CSS frameworks like Tailwind CSS.
+- Design and implement secure, scalable backend REST APIs and microservices using Node.js and Express.
+- Manage database schemas, queries, and migrations using PostgreSQL and Redis caching.
+- Package applications into Docker containers and integrate with automated CI/CD pipelines.
+- Collaborate with product managers and designers in an Agile scrum environment.
+
+Required Technical Skills:
+- Frontend: JavaScript, TypeScript, React, Next.js, HTML, CSS, Tailwind CSS, Redux
+- Backend: Node.js, Express, REST API, GraphQL
+- Databases: PostgreSQL, MongoDB, Redis
+- DevOps & Tools: Docker, Git, GitHub Actions, Linux, CI/CD
+- Methodologies: Agile, Scrum, Unit Testing

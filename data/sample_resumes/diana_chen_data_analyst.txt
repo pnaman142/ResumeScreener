@@ -1,0 +1,25 @@
+Diana Chen
+diana.chen@email.com | +1 (555) 789-0123 | Boston, MA | linkedin.com/in/dianachen
+
+PROFESSIONAL SUMMARY
+Results-driven Data Analyst with 3+ years of experience extracting business insights from large-scale structured data. Advanced expertise in SQL, Python, Tableau, Power BI, and statistical modeling.
+
+TECHNICAL SKILLS
+- Analytics & Modeling: Data Analysis, Statistical Analysis, Data Visualization, Data Mining
+- Programming & DB: SQL, Python, Pandas, NumPy, PostgreSQL, Snowflake
+- BI & Visualization Tools: Tableau, Power BI, Excel, Matplotlib, Seaborn
+- Methodologies: Agile, Problem Solving, Project Management, Communication
+
+WORK EXPERIENCE
+Data Analyst | Beacon Financial Group | 2022 - Present
+- Built 15+ automated Tableau and Power BI executive dashboards tracking $20M quarterly revenue.
+- Authored complex SQL queries on Snowflake and PostgreSQL to aggregate customer behavior metrics.
+- Applied exploratory data analysis with Python (Pandas, NumPy) to optimize churn prediction.
+- Partnered with product and marketing stakeholders to define key performance indicators (KPIs).
+
+Junior Business Intelligence Analyst | Metrix Consulting | 2021 - 2022
+- Conducted variance analysis and statistical summaries in Excel and SQL.
+- Designed recurring automated reporting pipelines reducing weekly manual reporting time by 60%.
+
+EDUCATION
+Bachelor of Science in Statistics and Mathematics | Boston University | 2021
